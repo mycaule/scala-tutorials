@@ -9,3 +9,4 @@ This module contains articles about Scala's Object Oriented Programming features
 - [Basics of Generics in Scala](https://www.baeldung.com/scala/generics-basics)
 - [Class Composition with Mixins](https://www.baeldung.com/scala/class-composition-mixins)
 - [Classes and Objects in Scala](https://www.baeldung.com/scala/classes-objects)
+- [Difference between Abstract Classes and Traits](http://inprogress.baeldung.com/?p=216828&preview=true)
